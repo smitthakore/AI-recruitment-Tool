@@ -7,7 +7,7 @@ def extract_information_huggingface(text):
     '''
     
     url = "https://api-inference.huggingface.co/models/dbmdz/bert-large-cased-finetuned-conll03-english"
-    headers = {"Authorization": "Bearer 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"}
+    headers = {"Authorization": "Bearer hf_xxxxxxxxxxxxxxxxxxxxx"}
     payload = {"inputs": text}
     
     response = requests.post(url, headers=headers, json=payload)
