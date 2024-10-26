@@ -1,0 +1,13 @@
+streamlit==1.10.0
+requests
+moviepy
+speech_recognition
+temp
+PyMuPDF
+io
+docx
+re
+uuid
+faiss-cpu==1.7.2
+numpy==1.21.5
+
