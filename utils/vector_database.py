@@ -24,7 +24,7 @@ class VectorDB:
         """
         
         headers = {
-            "Authorization": f"Bearer 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",  
+            "Authorization": f"Bearer hf_xxxxxxxxxxxxxxxxxxxxxx",  
             "Content-Type": "application/json",
         }
 
