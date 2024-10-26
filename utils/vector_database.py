@@ -15,7 +15,7 @@ class VectorDB:
         # Embeddings model
         self.hf_url = "https://api-inference.huggingface.co/pipeline/feature-extraction/sentence-transformers/all-MiniLM-L6-v2"
 
-        self.hf_headers = {"Authorization": "Bearer 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"}
+        self.hf_headers = {"Authorization": "Bearer hf_xxxxxxxxxxxxxxxxxxxxx"}
 
 
     def get_embedding(self, text):
